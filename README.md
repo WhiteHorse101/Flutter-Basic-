@@ -1,6 +1,8 @@
-# sample_prj
+# Flutter for Beginners 
 
-A new Flutter project.
+This is a Flutter Application being developed, it's basically a Quizz App. Beginners can use this for learning Flutter or for getting started with flutter. Having basic Oop concepts clear will give you more clearity in understanding code. I have also added comments where I felt they were necessary. 
+I will keep updating this repo as I progress with this prj. Happy Learning !
+
 
 ## Getting Started
 
